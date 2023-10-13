@@ -1,0 +1,5 @@
+1. 지니뮤직에 대해 아는대로 말해보세요
+2. Java SOLID, OOP, GC, 오버로딩/오버라이딩, 클래스, 쓰레드, 인터페이스, 추상화,객체지향이란 에 대해 말해보세요
+3. SQL 에서 CRUD, DML DDL, DCL ,TCL  무결성 제약조건 PK, FK에 대해 말해보세요
+4. 정보처리기사에서 생명주기, 애자일 프로젝트 , 7Layers , HTTP에 대해 말해보세요
+5. Spring에서 Spring Conteainer, DI, IOC의 개념, MVC패턴의 구조, Bean, Auto Wired, Servlet에 대해 말해보세요
